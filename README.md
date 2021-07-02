@@ -8,7 +8,8 @@ O projeto foi desenvolvido seguindo os meus conhecimentos nas seguintes tecnolog
  - CSS
  - JavaScript
 
-![Jogo da velha ](https://github.com/Dioguer7/Jogo-da-velha---ProgBR/blob/main/117883378-b9a42600-b281-11eb-8c9a-7d11f397535d.mp4)
+![Jogo da velha ](https://github.com/Dioguer7/Jogo-da-velha---ProgBR/blob/main/Gravação%20de%20Tela%202021-07-01%20às%2022.37.32.gif)
+### Testar e utilizar o jogo !
 
  
  
