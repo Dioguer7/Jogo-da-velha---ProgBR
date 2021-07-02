@@ -1,5 +1,5 @@
-# Jogo-da-velha---ProgBR
-Projeto de jogo-da-velha desenvolvido para o curso ProgBR.
+# Jogo da velha - ProgBR
+## Projeto de jogo-da-velha desenvolvido para o curso ProgBR.
 É possível acessálo em https://dioguer7.github.io/Jogo-da-velha---ProgBR/
 
 O projeto foi desenvolvido seguindo os meus conhecimentos nas seguintes tecnologias:
@@ -8,6 +8,7 @@ O projeto foi desenvolvido seguindo os meus conhecimentos nas seguintes tecnolog
  - CSS
  - JavaScript
 
+![Jogo da velha ]()
 
  
- https://user-images.githubusercontent.com/80279567/117883378-b9a42600-b281-11eb-8c9a-7d11f397535d.mp4
+ 
